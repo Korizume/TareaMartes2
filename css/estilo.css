@@ -1,0 +1,57 @@
+.cont{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.cont1{
+    background-color: coral;
+    width: 340px;
+    height: auto;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cont2{
+    background-color: coral;
+    width: 500px;
+    height: auto;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    
+}
+.cont3{
+    background-color: coral;
+    width: 320px;
+    height: auto;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.rojo{
+    background-color: burlywood;
+    width: 40%;
+    height: 200px;
+    margin: 5%;
+    position: sticky;
+}
+.verde{
+    background-color: green;
+    padding: 60px;
+    margin: 20px;
+}
+.ama{
+    background-color: yellow;
+    width: 70%;
+    height: 100px;
+    margin: 5%;
+}
+.ama2{
+    background-color: yellow;
+    width: 40%;
+    height: 200px;
+    margin: 5%;
+}
